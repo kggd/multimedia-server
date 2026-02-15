@@ -28,7 +28,7 @@ sudo systemctl status jellyfin
 ````
 Dans le cas où il n'est pas actif faire :
 ````bash
-sudo systemctl status jellyfin
+sudo systemctl start jellyfin
 sudo systemctl enable jellyfin
 ````
 
