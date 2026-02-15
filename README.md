@@ -158,6 +158,11 @@ Pour voir la liste des règles faites :
 sudo ufw status
 ````
 
+Dans le cas où vous avez une connexions en SSH ou par un autre protocole, il sera utile d'ajouter la règle :
+````bash
+sudo ufw allow 22
+sudo ufw allow 22/tcp
+````
 
 
 
