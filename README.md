@@ -150,7 +150,7 @@ sudo ufw allow 8096
 sudo ufw allow 8080
 sudo ufw allow 8096/tcp
 sudo ufw allow 8096/udp
-sudo ufw allow 8080/tp
+sudo ufw allow 8080/tcp
 ````
 
 Pour voir la liste des règles faites :
