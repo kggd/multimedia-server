@@ -1,4 +1,4 @@
-# 🎬 Serveur multimédia local avec Jellyfin et téléchargement avec Qbittorent
+# 🎬 Serveur multimédia local avec Jellyfin et Qbittorent
 
 ## 1. 🎯 Objectif
 
